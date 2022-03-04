@@ -17,4 +17,5 @@ The below mentioned category of features are extracted from the dataset:
 
  This all Features Taken to to the Data Set and trained with Different machine learning model 
  
+![output](https://user-images.githubusercontent.com/73115703/156782310-6c722013-e5bc-490e-837b-e2f602e45b4c.png)
 
