@@ -20,6 +20,7 @@ The below mentioned category of features are extracted from the dataset:
 ![output](https://user-images.githubusercontent.com/73115703/156782310-6c722013-e5bc-490e-837b-e2f602e45b4c.png)
 
 **Models**
+
 Before starting the ML model training, the data is split into 80:20 (train : test). From the dataset, it is clear that this is a supervised machine learning task. There are two major types of supervised machine learning problems, called classification and regression. This dataset comes under classification problem, as the input URL is classified as Real (1) or Fake (0). The machine learning models considered to train the dataset in this project are:
 
 XGBClassifier
@@ -27,4 +28,8 @@ Decision Tree
 Random Forest
 LogisticRegression
 All these models are trained on the train dataset and evaluation of the model is done with the test dataset.
+
+**Results**
+
+From the obtained results of the above models, XGBoost Classifier has highest model performance of 92%. So the model is saved to the file XGBClassifier
 
