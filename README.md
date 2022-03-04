@@ -8,3 +8,13 @@ to be authentic than it is to break through a computer's protection measures..
 **Data Collection:** 
 This Data Set collected to this https://data.mendeley.com/datasets/72ptz43s9v/1 This site provide a set of phishing Data in csv format,This data Set contribtes Grega Vrbančič,This data set many columns are produced by seen the data in given link
 
+**Feature Extraction:**
+The below mentioned category of features are extracted from the dataset:
+1.URL-Based Features
+2.Domain-Based Features
+3.Page-Based Features
+4.Content-Based Features
+
+ This all Features Taken to to the Data Set and trained with Different machine learning model 
+ 
+
