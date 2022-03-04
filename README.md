@@ -15,7 +15,7 @@ The below mentioned category of features are extracted from the dataset:
 3.Page-Based Features
 4.Content-Based Features
 
- This all Features Taken to to the Data Set and trained with Different machine learning model 
+ This all Features Taken to to the Data Set and trained with Different machine learning model, Below Features are most important features 
  
 ![output](https://user-images.githubusercontent.com/73115703/156782310-6c722013-e5bc-490e-837b-e2f602e45b4c.png)
 
