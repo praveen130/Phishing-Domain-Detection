@@ -33,3 +33,7 @@ All these models are trained on the train dataset and evaluation of the model is
 
 From the obtained results of the above models, XGBoost Classifier has highest model performance of 92%. So the model is saved to the file XGBClassifier
 
+**Next Step:**
+
+1.use any Cloud Platform for this entier solution hosting Google,AWS,Azure
+2.Complete Solution expose solution API 
